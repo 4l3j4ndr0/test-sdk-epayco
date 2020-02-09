@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff342a44-5664-4a88-92dc-f330969b5d82" name="Default Changelist" comment="" />
+    <list default="true" id="ff342a44-5664-4a88-92dc-f330969b5d82" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.test-sdk/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.test-sdk/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.test-sdk/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.test-sdk/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/bin/Debug/netcoreapp3.1/EpaycoSdk.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test-sdk/bin/Debug/netcoreapp3.1/EpaycoSdk.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/bin/Debug/netcoreapp3.1/EpaycoSdk.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test-sdk/bin/Debug/netcoreapp3.1/EpaycoSdk.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/bin/Debug/netcoreapp3.1/test-sdk.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test-sdk/bin/Debug/netcoreapp3.1/test-sdk.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/bin/Debug/netcoreapp3.1/test-sdk.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test-sdk/bin/Debug/netcoreapp3.1/test-sdk.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.10833.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.11451.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.11534.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.11721.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.11768.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.11855.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.12060.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.12689.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.12966.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.12997.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.13251.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.14412.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.14840.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.18328.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.19123.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.19432.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.19936.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.22504.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.23134.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.23199.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.23791.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.24088.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.24634.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.30638.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.32740.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.6511.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/mono_crash.mem.8620.1.blob" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/obj/Debug/netcoreapp3.1/test-sdk.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/test-sdk/obj/Debug/netcoreapp3.1/test-sdk.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/obj/Debug/netcoreapp3.1/test-sdk.dll" beforeDir="false" afterPath="$PROJECT_DIR$/test-sdk/obj/Debug/netcoreapp3.1/test-sdk.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-sdk/obj/Debug/netcoreapp3.1/test-sdk.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/test-sdk/obj/Debug/netcoreapp3.1/test-sdk.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/29C4CCAD-18CE-4A33-AD61-8860E75BB3E3/24/ControllerBase.cs" root0="SKIP_HIGHLIGHTING" />
@@ -20,7 +61,8 @@
     <setting file="file://$PROJECT_DIR$/../EpaycoSdk/EpaycoSdk/Utils/Request.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/77397722-6251-4049-A372-77EE78C5EE72/8/LoggerT.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CDAE4105-7E89-4723-8979-C3C1D3936A03/5C/Boolean.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/29C4CCAD-18CE-4A33-AD61-8860E75BB3E3/FE/ControllerActionInvoker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../EpaycoSdk/EpaycoSdk/Utils/RequestRest.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/29C4CCAD-18CE-4A33-AD61-8860E75BB3E3/FE/ControllerActionInvoker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CDAE4105-7E89-4723-8979-C3C1D3936A03/2C6/DynamicILGenerator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/FBA61E84-2948-4999-A16C-C36B262A4D33/16/RestRequest.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/CDAE4105-7E89-4723-8979-C3C1D3936A03/1D8/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
@@ -44,14 +86,15 @@
         <option value="$PROJECT_DIR$/test-sdk/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/test-sdk/Controllers/Epayco.cs" />
         <option value="$PROJECT_DIR$/../EpaycoSdk/EpaycoSdk/Utils/Request.cs" />
-        <option value="$PROJECT_DIR$/../EpaycoSdk/EpaycoSdk/Epayco.cs" />
         <option value="$PROJECT_DIR$/../EpaycoSdk/EpaycoSdk/Utils/Auxiliars.cs" />
-        <option value="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" />
         <option value="$PROJECT_DIR$/../EpaycoSdk/EpaycoSdk/Utils/BodyRequest.cs" />
+        <option value="$PROJECT_DIR$/../EpaycoSdk/EpaycoSdk/Epayco.cs" />
+        <option value="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1WrlGSrI7y5FWeybGrIGX8gaGl2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -59,8 +102,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../EpaycoSdk/EpaycoSdk/bin/Debug/EpaycoSdk.dll" />
+    <property name="settings.editor.selected.configurable" value="RiderNuGetOptionsPageId" />
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.test-sdk: test_sdk">
     <configuration name="test-sdk: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -123,242 +168,300 @@
       <workItem from="1580696135213" duration="934000" />
       <workItem from="1580776578895" duration="5559000" />
       <workItem from="1580827258545" duration="1101000" />
+      <workItem from="1581125661521" duration="3362000" />
+      <workItem from="1581260300723" duration="3385000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="369" y="189" width="612" height="392" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579919933540">
+    <state x="369" y="189" width="612" height="395" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581125686419">
       <screen x="0" y="30" width="1360" height="738" />
     </state>
-    <state x="369" y="189" width="612" height="392" key="#com.intellij.fileTypes.FileTypeChooser/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1579919933540" />
+    <state x="369" y="189" width="612" height="395" key="#com.intellij.fileTypes.FileTypeChooser/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581125686419" />
     <state x="327" y="15" width="710" height="741" key="#test-sdk:_IIS_Express" timestamp="1579915631406">
       <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state x="327" y="15" width="710" height="741" key="#test-sdk:_IIS_Express/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1579915631406" />
-    <state width="446" height="454" key="DebuggerActiveHint" timestamp="1580827476518">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="444" height="454" key="DebuggerActiveHint" timestamp="1581262707044">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="446" height="454" key="DebuggerActiveHint/0.30.1366.738@0.30.1366.738" timestamp="1580827476518" />
-    <state width="444" height="454" key="DebuggerActiveHint/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783294351" />
+    <state width="444" height="454" key="DebuggerActiveHint/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262707044" />
     <state x="463" y="142" width="424" height="487" key="FileChooserDialogImpl" timestamp="1579918750306">
       <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state x="463" y="142" width="424" height="487" key="FileChooserDialogImpl/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1579918750306" />
-    <state width="1320" height="215" key="GridCell.Tab.0.bottom" timestamp="1580838215359">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="183" key="GridCell.Tab.0.bottom" timestamp="1581264978033">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580838215359" />
-    <state width="1314" height="227" key="GridCell.Tab.0.bottom/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.0.center" timestamp="1580838215358">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="183" key="GridCell.Tab.0.bottom/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581264978033" />
+    <state width="1314" height="183" key="GridCell.Tab.0.center" timestamp="1581264978033">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1580838215358" />
-    <state width="1314" height="227" key="GridCell.Tab.0.center/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.0.left" timestamp="1580838215358">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="183" key="GridCell.Tab.0.center/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581264978033" />
+    <state width="1314" height="183" key="GridCell.Tab.0.left" timestamp="1581264978033">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1580838215358" />
-    <state width="1314" height="227" key="GridCell.Tab.0.left/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.0.right" timestamp="1580838215359">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="183" key="GridCell.Tab.0.left/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581264978033" />
+    <state width="1314" height="183" key="GridCell.Tab.0.right" timestamp="1581264978033">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1580838215359" />
-    <state width="1314" height="227" key="GridCell.Tab.0.right/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.1.bottom" timestamp="1580838215360">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="183" key="GridCell.Tab.0.right/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581264978033" />
+    <state width="1314" height="225" key="GridCell.Tab.1.bottom" timestamp="1581262952744">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.1.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580838215360" />
-    <state width="1314" height="227" key="GridCell.Tab.1.bottom/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.1.center" timestamp="1580838215359">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.1.bottom/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952744" />
+    <state width="1314" height="225" key="GridCell.Tab.1.center" timestamp="1581262952744">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.1.center/0.30.1366.738@0.30.1366.738" timestamp="1580838215359" />
-    <state width="1314" height="227" key="GridCell.Tab.1.center/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.1.left" timestamp="1580838215359">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.1.center/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952744" />
+    <state width="1314" height="225" key="GridCell.Tab.1.left" timestamp="1581262952744">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.1.left/0.30.1366.738@0.30.1366.738" timestamp="1580838215359" />
-    <state width="1314" height="227" key="GridCell.Tab.1.left/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.1.right" timestamp="1580838215359">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.1.left/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952744" />
+    <state width="1314" height="225" key="GridCell.Tab.1.right" timestamp="1581262952744">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.1.right/0.30.1366.738@0.30.1366.738" timestamp="1580838215359" />
-    <state width="1314" height="227" key="GridCell.Tab.1.right/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.2.bottom" timestamp="1580838215360">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.1.right/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952744" />
+    <state width="1314" height="225" key="GridCell.Tab.2.bottom" timestamp="1581262952744">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.2.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580838215360" />
-    <state width="1314" height="227" key="GridCell.Tab.2.bottom/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.2.center" timestamp="1580838215360">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.2.bottom/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952744" />
+    <state width="1314" height="225" key="GridCell.Tab.2.center" timestamp="1581262952744">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.2.center/0.30.1366.738@0.30.1366.738" timestamp="1580838215360" />
-    <state width="1314" height="227" key="GridCell.Tab.2.center/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.2.left" timestamp="1580838215360">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.2.center/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952744" />
+    <state width="1314" height="225" key="GridCell.Tab.2.left" timestamp="1581262952744">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.2.left/0.30.1366.738@0.30.1366.738" timestamp="1580838215360" />
-    <state width="1314" height="227" key="GridCell.Tab.2.left/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.2.right" timestamp="1580838215360">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.2.left/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952744" />
+    <state width="1314" height="225" key="GridCell.Tab.2.right" timestamp="1581262952744">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.2.right/0.30.1366.738@0.30.1366.738" timestamp="1580838215360" />
-    <state width="1314" height="227" key="GridCell.Tab.2.right/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.3.bottom" timestamp="1580838215361">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.2.right/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952744" />
+    <state width="1314" height="225" key="GridCell.Tab.3.bottom" timestamp="1581262952745">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.3.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580838215361" />
-    <state width="1314" height="227" key="GridCell.Tab.3.bottom/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767436" />
-    <state width="1320" height="215" key="GridCell.Tab.3.center" timestamp="1580838215361">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.3.bottom/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952745" />
+    <state width="1314" height="225" key="GridCell.Tab.3.center" timestamp="1581262952745">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.3.center/0.30.1366.738@0.30.1366.738" timestamp="1580838215361" />
-    <state width="1314" height="227" key="GridCell.Tab.3.center/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.3.left" timestamp="1580838215361">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.3.center/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952745" />
+    <state width="1314" height="225" key="GridCell.Tab.3.left" timestamp="1581262952745">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.3.left/0.30.1366.738@0.30.1366.738" timestamp="1580838215361" />
-    <state width="1314" height="227" key="GridCell.Tab.3.left/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.3.right" timestamp="1580838215361">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.3.left/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952745" />
+    <state width="1314" height="225" key="GridCell.Tab.3.right" timestamp="1581262952745">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.3.right/0.30.1366.738@0.30.1366.738" timestamp="1580838215361" />
-    <state width="1314" height="227" key="GridCell.Tab.3.right/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767435" />
-    <state width="1320" height="215" key="GridCell.Tab.4.bottom" timestamp="1580838215362">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.3.right/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952745" />
+    <state width="1314" height="225" key="GridCell.Tab.4.bottom" timestamp="1581262952745">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.4.bottom/0.30.1366.738@0.30.1366.738" timestamp="1580838215362" />
-    <state width="1314" height="227" key="GridCell.Tab.4.bottom/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767436" />
-    <state width="1320" height="215" key="GridCell.Tab.4.center" timestamp="1580838215362">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.4.bottom/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952745" />
+    <state width="1314" height="225" key="GridCell.Tab.4.center" timestamp="1581262952745">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.4.center/0.30.1366.738@0.30.1366.738" timestamp="1580838215362" />
-    <state width="1314" height="227" key="GridCell.Tab.4.center/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767436" />
-    <state width="1320" height="215" key="GridCell.Tab.4.left" timestamp="1580838215362">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.4.center/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952745" />
+    <state width="1314" height="225" key="GridCell.Tab.4.left" timestamp="1581262952745">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.4.left/0.30.1366.738@0.30.1366.738" timestamp="1580838215362" />
-    <state width="1314" height="227" key="GridCell.Tab.4.left/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767436" />
-    <state width="1320" height="215" key="GridCell.Tab.4.right" timestamp="1580838215362">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.4.left/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952745" />
+    <state width="1314" height="225" key="GridCell.Tab.4.right" timestamp="1581262952745">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="1320" height="215" key="GridCell.Tab.4.right/0.30.1366.738@0.30.1366.738" timestamp="1580838215362" />
-    <state width="1314" height="227" key="GridCell.Tab.4.right/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580783767436" />
-    <state width="683" height="384" key="XDebugger.FullValuePopup" timestamp="1580827476512">
-      <screen x="0" y="30" width="1366" height="738" />
+    <state width="1314" height="225" key="GridCell.Tab.4.right/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262952745" />
+    <state x="184" y="19" width="992" height="733" key="SettingsEditor" timestamp="1581127703433">
+      <screen x="0" y="30" width="1360" height="738" />
+    </state>
+    <state x="184" y="19" width="992" height="733" key="SettingsEditor/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581127703433" />
+    <state width="680" height="384" key="XDebugger.FullValuePopup" timestamp="1581262707042">
+      <screen x="0" y="30" width="1360" height="738" />
     </state>
     <state width="683" height="384" key="XDebugger.FullValuePopup/0.30.1366.738@0.30.1366.738" timestamp="1580827476512" />
-    <state width="680" height="384" key="XDebugger.FullValuePopup/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1580778449012" />
+    <state width="680" height="384" key="XDebugger.FullValuePopup/1360.0.1366.768/0.30.1360.738@0.30.1360.738" timestamp="1581262707042" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs</url>
-          <line>33</line>
+          <line>35</line>
           <properties documentPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" initialLine="24">
             <startOffsets>
-              <option value="905" />
+              <option value="965" />
             </startOffsets>
             <endOffsets>
-              <option value="1039" />
+              <option value="1099" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs</url>
-          <line>44</line>
+          <line>46</line>
           <properties documentPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" initialLine="34">
             <startOffsets>
-              <option value="1201" />
+              <option value="1261" />
             </startOffsets>
             <endOffsets>
-              <option value="1532" />
+              <option value="1592" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs</url>
-          <line>83</line>
+          <line>85</line>
           <properties documentPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" initialLine="57">
             <startOffsets>
-              <option value="2523" />
+              <option value="2583" />
             </startOffsets>
             <endOffsets>
-              <option value="2560" />
+              <option value="2620" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs</url>
-          <line>66</line>
+          <line>68</line>
           <properties documentPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" initialLine="56">
             <startOffsets>
-              <option value="1919" />
+              <option value="1979" />
             </startOffsets>
             <endOffsets>
-              <option value="2007" />
+              <option value="2067" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs</url>
-          <line>73</line>
+          <line>75</line>
           <properties documentPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" initialLine="63">
             <startOffsets>
-              <option value="2183" />
+              <option value="2243" />
             </startOffsets>
             <endOffsets>
-              <option value="2346" />
+              <option value="2406" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs</url>
-          <line>168</line>
+          <line>170</line>
           <properties documentPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" initialLine="161">
             <startOffsets>
-              <option value="5101" />
+              <option value="5161" />
             </startOffsets>
             <endOffsets>
-              <option value="5463" />
+              <option value="5523" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs</url>
-          <line>184</line>
+          <line>186</line>
           <properties documentPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" initialLine="182">
             <startOffsets>
-              <option value="5622" />
+              <option value="5690" />
             </startOffsets>
             <endOffsets>
-              <option value="6245" />
+              <option value="6307" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/../EpaycoSdk/EpaycoSdk/Epayco.cs</url>
-          <line>320</line>
+          <line>321</line>
           <properties documentPath="$PROJECT_DIR$/../EpaycoSdk/EpaycoSdk/Epayco.cs" initialLine="318">
             <startOffsets>
-              <option value="12463" />
+              <option value="12486" />
             </startOffsets>
             <endOffsets>
-              <option value="12637" />
+              <option value="12660" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs</url>
+          <line>211</line>
+          <properties documentPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" initialLine="209">
+            <startOffsets>
+              <option value="6472" />
+            </startOffsets>
+            <endOffsets>
+              <option value="6543" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs</url>
+          <line>228</line>
+          <properties documentPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" initialLine="226">
+            <startOffsets>
+              <option value="6938" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7547" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs</url>
+          <line>252</line>
+          <properties documentPath="$PROJECT_DIR$/test-sdk/Controllers/EpaycoController.cs" initialLine="251">
+            <startOffsets>
+              <option value="7717" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7783" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

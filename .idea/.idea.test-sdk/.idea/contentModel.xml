@@ -19,33 +19,7 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="mono_crash.mem.10833.1.blob" t="Include" />
-        <e p="mono_crash.mem.11451.1.blob" t="Include" />
-        <e p="mono_crash.mem.11534.1.blob" t="Include" />
-        <e p="mono_crash.mem.11721.1.blob" t="Include" />
-        <e p="mono_crash.mem.11768.1.blob" t="Include" />
-        <e p="mono_crash.mem.11855.1.blob" t="Include" />
-        <e p="mono_crash.mem.12060.1.blob" t="Include" />
-        <e p="mono_crash.mem.12689.1.blob" t="Include" />
-        <e p="mono_crash.mem.12966.1.blob" t="Include" />
-        <e p="mono_crash.mem.12997.1.blob" t="Include" />
-        <e p="mono_crash.mem.13251.1.blob" t="Include" />
-        <e p="mono_crash.mem.14412.1.blob" t="Include" />
-        <e p="mono_crash.mem.14840.1.blob" t="Include" />
-        <e p="mono_crash.mem.18328.1.blob" t="Include" />
-        <e p="mono_crash.mem.19123.1.blob" t="Include" />
-        <e p="mono_crash.mem.19432.1.blob" t="Include" />
-        <e p="mono_crash.mem.19936.1.blob" t="Include" />
-        <e p="mono_crash.mem.22504.1.blob" t="Include" />
-        <e p="mono_crash.mem.23134.1.blob" t="Include" />
-        <e p="mono_crash.mem.23199.1.blob" t="Include" />
-        <e p="mono_crash.mem.23791.1.blob" t="Include" />
-        <e p="mono_crash.mem.24088.1.blob" t="Include" />
-        <e p="mono_crash.mem.24634.1.blob" t="Include" />
-        <e p="mono_crash.mem.30638.1.blob" t="Include" />
-        <e p="mono_crash.mem.32740.1.blob" t="Include" />
-        <e p="mono_crash.mem.6511.1.blob" t="Include" />
-        <e p="mono_crash.mem.8620.1.blob" t="Include" />
+        <e p="mono_crash.mem.11155.1.blob" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">

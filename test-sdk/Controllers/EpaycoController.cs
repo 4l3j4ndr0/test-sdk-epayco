@@ -5,6 +5,8 @@ using System.Text;
 using System.Web;
 using EpaycoSdk.Models;
 using EpaycoSdk.Models.Bank;
+using EpaycoSdk.Models.Cash;
+using EpaycoSdk.Models.Charge;
 using EpaycoSdk.Models.Plans;
 using EpaycoSdk.Models.Subscriptions;
 using Microsoft.AspNetCore.Mvc;
@@ -182,8 +184,8 @@ namespace test_sdk.Controllers
         [HttpGet, Route("pse/create")]
         public IActionResult CreatePse()
         {
-            string response = epayco.BankCreate(
-                "1022",
+            PseModel response = epayco.BankCreate(
+                "1051",
                 "1472050778",
                 "pago de pruebas",
                 "10000",
@@ -207,7 +209,7 @@ namespace test_sdk.Controllers
         [HttpGet, Route("get/transaction")]
         public IActionResult GetTransaction()
         {
-            TransactionModel transaction = epayco.GetTransaction("101867821569978420");
+            TransactionModel transaction = epayco.GetTransaction("48771581125902");
             return Ok(transaction);
         }
         
@@ -217,6 +219,76 @@ namespace test_sdk.Controllers
             BanksModel banks = epayco.GetBanks();
             return Ok(banks);
         }
+        
+        /*
+         * CASH
+         */
+        [HttpGet, Route("cash/create")]
+        public IActionResult CashCreate()
+        {
+            CashModel response = epayco.CashCreate("efecty",
+                "1472050778",
+                "pago de pruebas",
+                "1000",
+                "0",
+                "0",
+                "COP",
+                "0",
+                "CC",
+                "1026150902",
+                "alejandro",
+                "castañeda",
+                "alejandro.casta3447@gmail.com",
+                "3146254435",
+                "2020-09-20",
+                "https:/secure.payco.co/restpagos/testRest/endpagopse.php",
+                "https:/secure.payco.co/restpagos/testRest/endpagopse.php",
+                "GET");
+            return Ok(response);
+        }
+        
+        [HttpGet, Route("cash/transaction")]
+        public IActionResult GetCashTransactiom()
+        {
+            CashTransactionModel cash = epayco.GetCashTransaction("14925792");
+            return Ok(cash);
+        }
          
+        /*
+         * PAYMENT
+         */
+        [HttpGet, Route("payment/create")]
+        public IActionResult ChargeCreate()
+        {
+            ChargeModel response = epayco.ChargeCreate(
+                "2CeoeeoWZBCZRAJ7p",
+                "2CeoeeoWZBCZRAJ7p",
+                "CC",
+                "1026150902",
+                "Alejandro",
+                "castañeda",
+                "alejandro.casta3447@gmail.com",
+                "OR-4154754",
+                "pago de prueba",
+                "150000",
+                "0",
+                "0",
+                "COP",
+                "6",
+                "calle falsa",
+                "3146254435",
+                "3146254435",
+                "https:/secure.payco.co/restpagos/testRest/endpagopse.php",
+                "https:/secure.payco.co/restpagos/testRest/endpagopse.php",
+                "0.0.0.0");
+            return Ok(response);
+        }
+        
+        [HttpGet, Route("charge/transaction")]
+        public IActionResult GetChargeTransaction()
+        {
+            ChargeTransactionModel cash = epayco.GetChargeTransaction("14925792");
+            return Ok(cash);
+        }
     }
 }
